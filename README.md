@@ -1,6 +1,6 @@
 # Bot de Noticias de Telegram
 
-Este proyecto consiste en un bot para Telegram desarrollado en Python utilizando la librería `TeleBot` y la API `NewsAPI` para obtener noticias en español.
+Este proyecto consiste en un bot para Telegram desarrollado en Python utilizando la librería `TeleBot` y la API `NewsAPI` para obtener noticias en castellano.
 
 ## Descripción
 
